@@ -1,10 +1,10 @@
 {
   "Needs":
   [
-    {"NeedID":1,"NeedImage":"https://github.com/dhcralle/IT-315-Project-2/blob/master/relax.jpg","NeedName":"Relax","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DWU0ScTcjJBdj?si=etftPfScSt2xePENCXN-zQ"},
-    {"NeedID":2,"NeedImage":"https://github.com/dhcralle/IT-315-Project-2/blob/master/zoneout.jpg","NeedName":"Zone Out","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DWSDoVybeQisg?si=2fKra_SdTb2n6a-U--C-TA"},
-    {"NeedID":3,"NeedImage":"https://github.com/dhcralle/IT-315-Project-2/blob/master/pumped%20up.jpg","NeedName":"Get Pumped Up","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DX5gQonLbZD9s?si=cKgRgEb3RHSGX4X0_dwU2A"},
-    {"NeedID":4,"NeedImage":"https://github.com/dhcralle/IT-315-Project-2/blob/master/focus.jpg","NeedName":"Focus","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ?si=xmhXQD21SG-4NuMdTyQQdA"},
+    {"NeedID":1,"NeedImage":"https://raw.githubusercontent.com/dhcralle/IT-315-Project-2/master/zoneout.jpg","NeedName":"Relax","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DWU0ScTcjJBdj?si=etftPfScSt2xePENCXN-zQ"},
+    {"NeedID":2,"NeedImage":"https://raw.githubusercontent.com/dhcralle/IT-315-Project-2/master/relax.jpg","NeedName":"Zone Out","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DWSDoVybeQisg?si=2fKra_SdTb2n6a-U--C-TA"},
+    {"NeedID":3,"NeedImage":"https://raw.githubusercontent.com/dhcralle/IT-315-Project-2/master/pumped%20up.jpg","NeedName":"Get Pumped Up","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DX5gQonLbZD9s?si=cKgRgEb3RHSGX4X0_dwU2A"},
+    {"NeedID":4,"NeedImage":"https://raw.githubusercontent.com/dhcralle/IT-315-Project-2/master/focus.jpg","NeedName":"Focus","NeedLink":"https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ?si=xmhXQD21SG-4NuMdTyQQdA"},
   ],
   "Status":"OK"
 }
